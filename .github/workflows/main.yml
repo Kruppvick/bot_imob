@@ -6,6 +6,10 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:  # Permite execução manual através do GitHub
 
+  # Adicione esta seção de permissões
+permissions:
+  contents: write
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
