@@ -30,6 +30,23 @@ bot = telegram.Bot(token=TELEGRAM_TOKEN) if TELEGRAM_TOKEN else None
 HASHES_ARQUIVO = 'paginas_hashes.json'
 LOGS_ARQUIVO = 'notificacoes.txt'  # Definindo a variável LOGS_ARQUIVO aqui
 
+def salvar_hashes(hashes):
+    print(f"Salvando hashes em: {os.path.abspath(HASHES_ARQUIVO)}")
+    print(f"Conteúdo dos hashes: {json.dumps(hashes)[:200]}...")  # Mostrar início do conteúdo
+    
+    with open(HASHES_ARQUIVO, 'w', encoding='utf-8') as f:
+        json.dump(hashes, f)
+    
+    print(f"Arquivo salvo. Tamanho: {os.path.getsize(HASHES_ARQUIVO)} bytes")
+
+# Configurar caminho para arquivos com base no diretório atual
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+HASHES_ARQUIVO = os.path.join(BASE_DIR, 'paginas_hashes.json')
+LOGS_ARQUIVO = os.path.join(BASE_DIR, 'notificacoes.txt')
+
+print(f"Diretório base: {BASE_DIR}")
+print(f"Arquivo de hashes: {HASHES_ARQUIVO}")
+
 # Função para enviar notificação
 def enviar_notificacao(mensagem):
     # Salvar em arquivo
@@ -208,6 +225,14 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print(f"Monitorando {len(SITES_IMOBILIARIAS)} sites.")
+
+    # Verificar se o arquivo de hashes já existe
+    if not os.path.exists(HASHES_ARQUIVO):
+        print(f"Arquivo de hashes não encontrado. Criando arquivo inicial...")
+        # Criar um arquivo inicial vazio
+        with open(HASHES_ARQUIVO, 'w', encoding='utf-8') as f:
+            json.dump({}, f)
+        print(f"Arquivo de hashes inicial criado: {HASHES_ARQUIVO}")
 
     # No GitHub Actions, executamos apenas uma verificação por execução
     verificar_mudancas()
