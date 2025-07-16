@@ -887,3 +887,10 @@ www.snel.com.br - https://www.snel.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5
 
 Acesse o site para ver os novos imóveis!
 
+[2025-07-16 20:20:18] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
