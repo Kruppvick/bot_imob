@@ -1538,3 +1538,24 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-07-24 13:36:47] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.momentoimoveis.com.br - https://www.momentoimoveis.com.br/Imoveis/Busca/1/0?carteira=L&cidade=4&bairro%5B%5D=11&bairro%5B%5D=10&bairro%5B%5D=33&bairro%5B%5D=16&bairro%5B%5D=29&bairro%5B%5D=12&bairro%5B%5D=21&bairro%5B%5D=62&bairro%5B%5D=37&bairro%5B%5D=20&bairro%5B%5D=19&bairro%5B%5D=24&valor_l=0&valor_v=0&codigo=&banheiro=0&area=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-07-24 13:37:02] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 2 seção(ões) em:
+www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/apartamento+casa+cobertura/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
+[2025-07-24 13:37:08] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-novo-hamburgo/tipo-residencial/categoria-apartamento/?bairros=364&bairros=374&bairros=388&bairros=389&bairros=390&bairros=395&bairros=405&bairros=406&bairros=408&bairros=418&bairros=438&categoria=casa&categoria=cobertura-penthouse&categoria=sobrado&page=1
+
+Acesse o site para ver os novos imóveis!
+
