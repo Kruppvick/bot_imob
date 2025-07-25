@@ -1685,3 +1685,10 @@ www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/ap
 
 Acesse o site para ver os novos imóveis!
 
+[2025-07-25 16:22:57] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 2 seção(ões) em:
+www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/apartamento+casa+cobertura/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
