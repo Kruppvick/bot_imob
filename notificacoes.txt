@@ -2231,3 +2231,24 @@ www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/ap
 
 Acesse o site para ver os novos imóveis!
 
+[2025-07-30 19:39:19] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.snel.com.br - https://www.snel.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=8&tipo%5B%5D=21&tipo%5B%5D=22&tipo%5B%5D=11&tipo%5B%5D=37&tipo%5B%5D=26&texto=Novo+Hamburgo&valor_l=0&codigo=&dormitorios=0&garagem=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-07-30 19:39:30] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=2&tipo%5B%5D=5&tipo%5B%5D=7&cidade=0&valor_l=0&valor_v=0&banheiro=0&area=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
+[2025-07-30 19:39:33] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+feniximob.com - https://feniximob.com/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=3&tipo%5B%5D=76&tipo%5B%5D=1&tipo%5B%5D=81&tipo%5B%5D=84&texto=Novo+Hamburgo&valor_l=0&dormitorios=0&garagem=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
