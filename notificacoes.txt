@@ -3232,3 +3232,10 @@ www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-08-07 16:50:55] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.snel.com.br - https://www.snel.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=8&tipo%5B%5D=21&tipo%5B%5D=22&tipo%5B%5D=11&tipo%5B%5D=37&tipo%5B%5D=26&texto=Novo+Hamburgo&valor_l=0&codigo=&dormitorios=0&garagem=0
+
+Acesse o site para ver os novos imóveis!
+
