@@ -3316,3 +3316,10 @@ www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-08-08 06:29:51] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
