@@ -5066,3 +5066,10 @@ www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/ap
 
 Acesse o site para ver os novos imóveis!
 
+[2025-08-15 19:13:18] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
