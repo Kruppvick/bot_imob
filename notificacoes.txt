@@ -4933,3 +4933,17 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-08-15 13:48:07] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-08-15 13:48:20] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-alugar/apartamento+casa/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
