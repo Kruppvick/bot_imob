@@ -6501,3 +6501,10 @@ www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-aluga
 
 Acesse o site para ver os novos imóveis!
 
+[2025-08-20 14:44:00] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-alugar/apartamento+casa/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
