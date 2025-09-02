@@ -8475,3 +8475,10 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-02 01:16:37] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 3 seção(ões) em:
+www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/apartamento+casa+cobertura/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
