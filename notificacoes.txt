@@ -9777,3 +9777,10 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-05 21:14:03] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+feniximob.com - https://feniximob.com/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=3&tipo%5B%5D=76&tipo%5B%5D=1&tipo%5B%5D=81&tipo%5B%5D=84&texto=Novo+Hamburgo&valor_l=0&dormitorios=0&garagem=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
