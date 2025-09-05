@@ -9735,3 +9735,24 @@ ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-05 20:17:13] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-05 20:17:34] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 3 seção(ões) em:
+www.petryimoveis.com.br - https://www.petryimoveis.com.br/imoveis/para-alugar/apartamento+casa+cobertura/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-05 20:17:51] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&gbraid=0AAAAAokqeE2Vq67Ly1LPJp12GMtPaUlGT&gclid=Cj0KCQjw953DBhCyARIsANhIZoZoqnUVhkGV3xA9bW1Im4Z01KLexN8NjpSPvgXUS7tHk8f2o-VaITUaAqN3EALw_wcB&finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCobertura&cidade=NOVO+HAMBURGO%2CNovo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
