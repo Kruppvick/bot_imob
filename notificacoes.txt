@@ -10134,3 +10134,10 @@ ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-09 14:15:10] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
