@@ -11653,3 +11653,24 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-16 15:17:21] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-16 15:17:26] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.snel.com.br - https://www.snel.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=8&tipo%5B%5D=21&tipo%5B%5D=22&tipo%5B%5D=11&tipo%5B%5D=37&tipo%5B%5D=26&texto=Novo+Hamburgo&valor_l=0&codigo=&dormitorios=0&garagem=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-16 15:17:48] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&gbraid=0AAAAAokqeE2Vq67Ly1LPJp12GMtPaUlGT&gclid=Cj0KCQjw953DBhCyARIsANhIZoZoqnUVhkGV3xA9bW1Im4Z01KLexN8NjpSPvgXUS7tHk8f2o-VaITUaAqN3EALw_wcB&finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCobertura&cidade=NOVO+HAMBURGO%2CNovo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
