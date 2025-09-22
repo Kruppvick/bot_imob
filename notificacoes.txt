@@ -12472,3 +12472,24 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-22 19:37:00] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-novo-hamburgo/tipo-residencial/categoria-apartamento/?bairros=364&bairros=374&bairros=388&bairros=389&bairros=390&bairros=395&bairros=405&bairros=406&bairros=408&bairros=418&bairros=438&categoria=casa&categoria=cobertura-penthouse&categoria=sobrado&page=1
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-22 19:37:02] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 3 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-22 19:37:04] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=2&tipo%5B%5D=5&tipo%5B%5D=7&cidade=0&valor_l=0&valor_v=0&banheiro=0&area=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
