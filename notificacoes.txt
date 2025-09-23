@@ -12535,3 +12535,10 @@ ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-23 05:16:52] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
