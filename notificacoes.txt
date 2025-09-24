@@ -12759,3 +12759,38 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-24 18:21:51] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-24 18:22:03] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.momentoimoveis.com.br - https://www.momentoimoveis.com.br/Imoveis/Busca/1/0?carteira=L&cidade=4&bairro%5B%5D=11&bairro%5B%5D=10&bairro%5B%5D=33&bairro%5B%5D=16&bairro%5B%5D=29&bairro%5B%5D=12&bairro%5B%5D=21&bairro%5B%5D=62&bairro%5B%5D=37&bairro%5B%5D=20&bairro%5B%5D=19&bairro%5B%5D=24&valor_l=0&valor_v=0&codigo=&banheiro=0&area=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-24 18:22:16] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-novo-hamburgo/tipo-residencial/categoria-apartamento/?bairros=364&bairros=374&bairros=388&bairros=389&bairros=390&bairros=395&bairros=405&bairros=406&bairros=408&bairros=418&bairros=438&categoria=casa&categoria=cobertura-penthouse&categoria=sobrado&page=1
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-24 18:22:18] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-24 18:22:28] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&gbraid=0AAAAAokqeE2Vq67Ly1LPJp12GMtPaUlGT&gclid=Cj0KCQjw953DBhCyARIsANhIZoZoqnUVhkGV3xA9bW1Im4Z01KLexN8NjpSPvgXUS7tHk8f2o-VaITUaAqN3EALw_wcB&finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCobertura&cidade=NOVO+HAMBURGO%2CNovo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
