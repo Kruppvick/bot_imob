@@ -12878,3 +12878,10 @@ ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-24 22:15:30] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-novo-hamburgo/tipo-residencial/categoria-apartamento/?bairros=364&bairros=374&bairros=388&bairros=389&bairros=390&bairros=395&bairros=405&bairros=406&bairros=408&bairros=418&bairros=438&categoria=casa&categoria=cobertura-penthouse&categoria=sobrado&page=1
+
+Acesse o site para ver os novos imóveis!
+
