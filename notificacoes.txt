@@ -13620,3 +13620,10 @@ sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCa
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-27 03:43:11] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
