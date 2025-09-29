@@ -14523,3 +14523,24 @@ www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-09-29 18:23:57] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-29 18:24:10] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-alugar/apartamento+casa/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
+[2025-09-29 18:24:24] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
