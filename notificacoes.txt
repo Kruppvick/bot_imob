@@ -16049,3 +16049,10 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-10-06 16:45:35] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 13 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
