@@ -16210,3 +16210,10 @@ www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-10-07 12:35:01] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-alugar/apartamento+casa/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
