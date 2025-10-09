@@ -16595,3 +16595,24 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-10-09 15:01:48] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.momentoimoveis.com.br - https://www.momentoimoveis.com.br/Imoveis/Busca/1/0?carteira=L&cidade=4&bairro%5B%5D=11&bairro%5B%5D=10&bairro%5B%5D=33&bairro%5B%5D=16&bairro%5B%5D=29&bairro%5B%5D=12&bairro%5B%5D=21&bairro%5B%5D=62&bairro%5B%5D=37&bairro%5B%5D=20&bairro%5B%5D=19&bairro%5B%5D=24&valor_l=0&valor_v=0&codigo=&banheiro=0&area=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-10-09 15:02:15] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+feniximob.com - https://feniximob.com/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=3&tipo%5B%5D=76&tipo%5B%5D=1&tipo%5B%5D=81&tipo%5B%5D=84&texto=Novo+Hamburgo&valor_l=0&dormitorios=0&garagem=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
+[2025-10-09 15:02:17] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
