@@ -18604,3 +18604,17 @@ terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-10-17 18:21:24] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-10-17 18:21:42] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.weberimoveisrs.com.br - https://www.weberimoveisrs.com.br/imoveis/para-alugar/apartamento+casa/novo-hamburgo?finalidade=residencial&ordenar=recentes
+
+Acesse o site para ver os novos imóveis!
+
