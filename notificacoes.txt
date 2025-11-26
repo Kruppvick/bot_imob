@@ -24743,3 +24743,10 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2025-11-26 15:41:49] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
