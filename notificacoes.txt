@@ -25044,3 +25044,17 @@ www.muckimoveis.com.br - https://www.muckimoveis.com.br/alugar-imoveis/1
 
 Acesse o site para ver os novos imóveis!
 
+[2025-11-27 03:43:28] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-11-27 03:44:07] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.muckimoveis.com.br - https://www.muckimoveis.com.br/alugar-imoveis/1
+
+Acesse o site para ver os novos imóveis!
+
