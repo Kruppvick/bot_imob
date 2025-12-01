@@ -27018,3 +27018,17 @@ feniximob.com - https://feniximob.com/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=3&
 
 Acesse o site para ver os novos imóveis!
 
+[2025-12-01 18:57:54] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-12-01 18:58:27] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
