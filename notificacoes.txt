@@ -27851,3 +27851,10 @@ www.snel.com.br - https://www.snel.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5
 
 Acesse o site para ver os novos imóveis!
 
+[2025-12-03 17:20:33] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
