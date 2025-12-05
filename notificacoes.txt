@@ -28740,3 +28740,24 @@ sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCa
 
 Acesse o site para ver os novos imóveis!
 
+[2025-12-05 16:49:09] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2025-12-05 16:49:11] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.momentoimoveis.com.br - https://www.momentoimoveis.com.br/Imoveis/Busca/1/0?carteira=L&cidade=4&bairro%5B%5D=11&bairro%5B%5D=10&bairro%5B%5D=33&bairro%5B%5D=16&bairro%5B%5D=29&bairro%5B%5D=12&bairro%5B%5D=21&bairro%5B%5D=62&bairro%5B%5D=37&bairro%5B%5D=20&bairro%5B%5D=19&bairro%5B%5D=24&valor_l=0&valor_v=0&codigo=&banheiro=0&area=0
+
+Acesse o site para ver os novos imóveis!
+
+[2025-12-05 16:49:29] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
