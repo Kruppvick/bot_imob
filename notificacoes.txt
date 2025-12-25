@@ -32688,3 +32688,10 @@ terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
 
 Acesse o site para ver os novos imóveis!
 
+[2025-12-25 20:20:36] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
