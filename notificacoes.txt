@@ -33339,3 +33339,10 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-07 19:41:30] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 25 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
