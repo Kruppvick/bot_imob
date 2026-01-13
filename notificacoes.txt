@@ -33983,3 +33983,17 @@ www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-13 05:29:48] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.dapperimoveis.com.br - https://www.dapperimoveis.com.br/imoveis/locacao#tipo_negociacao=1&tipo_imovel=18
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-13 05:29:53] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&valor_completo=0&pagina=1&ordem=1&tipo_imovel=20
+
+Acesse o site para ver os novos imóveis!
+
