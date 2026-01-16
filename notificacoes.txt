@@ -35285,3 +35285,31 @@ wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tip
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-16 18:30:06] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.tudoimobiliaria.com.br - https://www.tudoimobiliaria.com.br/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=2&tipo%5B%5D=5&tipo%5B%5D=7&cidade=0&valor_l=0&valor_v=0&banheiro=0&area=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-16 18:30:08] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.dapperimoveis.com.br - https://www.dapperimoveis.com.br/imoveis/locacao#tipo_negociacao=1&tipo_imovel=18
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-16 18:30:11] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-16 18:30:12] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&valor_completo=0&pagina=1&ordem=1&tipo_imovel=20
+
+Acesse o site para ver os novos imóveis!
+
