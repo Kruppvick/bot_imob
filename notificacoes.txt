@@ -36041,3 +36041,31 @@ sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-22 17:27:41] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.dapperimoveis.com.br - https://www.dapperimoveis.com.br/imoveis/locacao#tipo_negociacao=1&tipo_imovel=18
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-22 17:27:43] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+feniximob.com - https://feniximob.com/Imoveis/Busca/1/0?carteira=L&tipo%5B%5D=3&tipo%5B%5D=76&tipo%5B%5D=1&tipo%5B%5D=81&tipo%5B%5D=84&texto=Novo+Hamburgo&valor_l=0&dormitorios=0&garagem=0&codigo=
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-22 17:27:45] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+wallauimoveis.com.br - https://wallauimoveis.com.br/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCasa+em+Condom%C3%ADnio%2CCobertura%2CSobrado&cidade=Novo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-22 17:27:46] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&valor_completo=0&pagina=1&ordem=1&tipo_imovel=20
+
+Acesse o site para ver os novos imóveis!
+
