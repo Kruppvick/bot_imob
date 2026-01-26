@@ -36615,3 +36615,31 @@ www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&val
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-26 21:21:18] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-26 21:22:27] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-novo-hamburgo/tipo-residencial/categoria-apartamento/?bairros=364&bairros=374&bairros=388&bairros=389&bairros=390&bairros=395&bairros=405&bairros=406&bairros=408&bairros=418&bairros=438&categoria=casa&categoria=cobertura-penthouse&categoria=sobrado&page=1
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-26 21:22:28] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 3 seção(ões) em:
+terramar.com.br - https://terramar.com.br/aluguel/apartamento/novo-hamburgo/
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-26 21:23:06] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?gad_source=1&gad_campaignid=17070196008&gbraid=0AAAAAokqeE2Vq67Ly1LPJp12GMtPaUlGT&gclid=Cj0KCQjw953DBhCyARIsANhIZoZoqnUVhkGV3xA9bW1Im4Z01KLexN8NjpSPvgXUS7tHk8f2o-VaITUaAqN3EALw_wcB&finalidade=Aluguel&tipo=Apartamento%2CCasa%2CCobertura&cidade=NOVO+HAMBURGO%2CNovo+Hamburgo
+
+Acesse o site para ver os novos imóveis!
+
