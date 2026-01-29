@@ -37392,3 +37392,24 @@ ritzelimoveis.com.br - https://ritzelimoveis.com.br/imoveis/para-locacao/cidade-
 
 Acesse o site para ver os novos imóveis!
 
+[2026-01-29 22:25:10] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+sinuelo.net - https://sinuelo.net/busca?finalidade=Aluguel&tipo=Apartamento%2CCasa&cidade=Novo+Hamburgo%2CNOVO+HAMBURGO
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-29 22:26:00] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.dapperimoveis.com.br - https://www.dapperimoveis.com.br/imoveis/locacao#tipo_negociacao=1&tipo_imovel=18
+
+Acesse o site para ver os novos imóveis!
+
+[2026-01-29 22:26:05] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&valor_completo=0&pagina=1&ordem=1&tipo_imovel=20
+
+Acesse o site para ver os novos imóveis!
+
