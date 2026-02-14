@@ -39394,3 +39394,10 @@ www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&val
 
 Acesse o site para ver os novos imóveis!
 
+[2026-02-14 20:50:14] 🏠 NOVOS IMÓVEIS DETECTADOS!
+
+Detectei mudanças em 1 seção(ões) em:
+www.lasserra.com.br - https://www.lasserra.com.br/pesquisa#tipo_negociacao=1&valor_completo=0&pagina=1&ordem=1&tipo_imovel=20
+
+Acesse o site para ver os novos imóveis!
+
